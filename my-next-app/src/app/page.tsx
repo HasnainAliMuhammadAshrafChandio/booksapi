@@ -4,7 +4,7 @@ import { useEffect, useState } from 'react';
 import BookForm from '../components/BookForm';
 import BookList from '../components/BookList';
 import Feedback from '../components/Feedback';
-import styles from '../styles/home.module.css';  // For a file in the root styles folder
+import styles from '../app/styles/Home.module.css';  // For a file in the root styles folder
 
 
 interface Book {
